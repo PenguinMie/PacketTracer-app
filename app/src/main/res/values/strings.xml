@@ -1,0 +1,62 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PACKET TRACER DICTIONARY</string>
+    <string name="kamus_packet_tracer">KAMUS PACKET TRACER</string>
+    <string name="basic_configuration">BASIC CONFIGURATION</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="forum">FORUM</string>
+    <string name="network_command">NETWORK COMMAND</string>
+    <string name="todo">TODO</string>
+    <string name="function8" tools:ignore="DuplicateDefinition">Function</string>
+    <string name="function9" tools:ignore="DuplicateDefinition">Function</string>
+    <string name="function" tools:ignore="DuplicateDefinition">Function</string>
+    <string name="configuring_a_eigrp">Configuring a EIGRP</string>
+    <string name="verifying_eigrp">Verifying EIGRP</string>
+    <string name="troubleshooting_eigrp">Troubleshooting EIGRP</string>
+    <string name="function10">Function</string>
+    <string name="function11">Function2</string>
+    <string name="function12">Function3</string>
+    <string name="router_config_router_network_10_0_0_0">Router(config-router)#network 10.0.0.0</string>
+    <string name="router_config_router_eigrp_100">Router(config)#router eigrp 100</string>
+    <string name="turns_on_the_eigrp_process_100_is_the_autonomous_system_number_which_can_be_a_number_between_1_and_65_535">Turns on the EIGRP process. 100 is the autonomous system number, which can be a number between 1 and 65,535</string>
+    <string name="specifies_which_network_to_advertise_in_eigrp">Specifies which network to advertise in EIGRP.</string>
+    <string name="removes_the_network_from_the_eigrp_process">Removes the network from the EIGRP process.</string>
+    <string name="router_config_router_network_10_0_0_0_0_255_255_255">Router(config-router)#network 10.0.0.0 0.255.255.255</string>
+    <string name="router_show_ip_eigrp_neighbors">Router#show ip eigrp neighbors</string>
+    <string name="displays_the_neighbor_table">Displays the neighbor table.</string>
+    <string name="router_show_ip_eigrp_interfaces">Router#show ip eigrp interfaces.</string>
+    <string name="shows_information_for_each_interface">Shows information for each interface.</string>
+    <string name="router_show_ip_eigrp_traffic">Router#show ip eigrp traffic.</string>
+    <string name="shows_the_number_and_type_of_packets_sent_and_received">Shows the number and type of packets sent and received.</string>
+    <string name="router_show_ip_route_eigrp">Router#show ip route eigrp</string>
+    <string name="shows_a_routing_table_with_only_eigrp_entries">Shows a routing table with only EIGRP entries.</string>
+    <string name="router_debug_eigrp_fsm">Router#debug eigrp fsm</string>
+    <string name="router_debug_eigrp_packet">Router#debug eigrp packet</string>
+    <string name="Divider1">-------------------------------------------------------------</string>
+    <string name="Divider2">-------------------------------------------------------------</string>
+    <string name="displays_events_actions_related_to_eigrp_packets">Displays events/actions related to EIGRP packets</string>
+    <string name="router_debug_ip_eigrp_neighbor">Router#debug ip eigrp neighbor</string>
+    <string name="displays_events_actions_related_to_your_eigrp_neighbors">Displays events/actions related to your EIGRP neighbors.</string>
+    <string name="router_debug_ip_eigrp_notifications">Router#debug ip eigrp notifications</string>
+    <string name="displays_eigrp_event_notifications">Displays EIGRP event notifications.</string>
+    <string name="displays_events_actions_related_to_eigrp_feasible_successor_metrics_fsm">Displays events/actions related to EIGRP feasible successor metrics (FSM)</string>
+    <string name="identifies_which_interfaces_or_networks_to_include_in_eigrp_interfaces_must_be_configured_with_addresses_that_fall_within_the_wildcard_mask_range_of_the_network_statement_a_network_mask_can_also_be_used_here">Identifies which interfaces or networks to include in EIGRP. Interfaces must be configured with addresses that fall within the wildcard mask range of the network statement. A network mask can also be used here.</string>
+    <string name="router_config_router_no_network_10_0_0_0">Router(config-router)#no network 10.0.0.0</string>
+    <string name="function2">Function</string>
+    <string name="command1">Command</string>
+    <string name="command2">Command</string>
+    <string name="command" tools:ignore="DuplicateDefinition">Command</string>
+    <string name="command3">Command</string>
+    <string name="command4">Command</string>
+    <string name="command5">Command</string>
+    <string name="command6">Command</string>
+    <string name="command7">Command</string>
+    <string name="command8">Command</string>
+    <string name="command9">Command</string>
+    <string name="command0">Command</string>
+    <string name="command10">Command</string>
+    <string name="function3">Function</string>
+    <string name="function4">Function</string>
+    <string name="function5">Function</string>
+    <string name="function6">Function</string>
+    <string name="function7">Function</string>
+</resources>

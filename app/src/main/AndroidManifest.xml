@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.design">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design">
+        <activity
+            android:name=".Nat"
+            android:exported="true"
+            android:label="NAT" />
+        <activity
+            android:name=".Acl"
+            android:exported="true"
+            android:label="ACL"/>
+        <activity
+            android:name=".Eigrp"
+            android:exported="true"
+            android:label="EIGRP"/>
+        <activity
+            android:name=".Dhcp"
+            android:exported="true"
+            android:label="DHCP" />
+        <activity
+            android:name=".Forum"
+            android:exported="true"
+            android:label="@string/forum" />
+        <activity
+            android:name=".About_Us"
+            android:exported="true"
+            android:label="@string/about_us" />
+        <activity
+            android:name=".Basic_Configuration"
+            android:exported="true"
+            android:label="@string/basic_configuration" />
+        <activity
+            android:name=".NETWORKING_COMMAND"
+            android:exported="true"
+            android:label="@string/network_command" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
